@@ -13,7 +13,7 @@ function FetchNews() {
         setNews(response.data.articles);
       });
   };
-
+//ddfafdsf
   const [news, setNews] = useState([]);
 
   return (
